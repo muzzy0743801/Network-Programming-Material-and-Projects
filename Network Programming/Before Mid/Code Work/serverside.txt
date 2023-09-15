@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Net;
+using System.Net.Sockets;
+
+namespace ConsoleApplication112
+{
+
+    /// <summary>
+    /// ///////////server side code
+    /// </summary>
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            IPAddress ip = IPAddress.Parse("192.168.1.161");
+            IPEndPoint ep = new IPEndPoint(ip, 2000);
+            Socket sp = new Socket(ip.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
+            sp.Bind(ep);
+            sp.Listen(1);
+            Console.WriteLine("waiting for the client");
+            Socket c1 = sp.Accept();
+            Console.WriteLine("connected with the server");
+
+
+
+        }
+    }
+}

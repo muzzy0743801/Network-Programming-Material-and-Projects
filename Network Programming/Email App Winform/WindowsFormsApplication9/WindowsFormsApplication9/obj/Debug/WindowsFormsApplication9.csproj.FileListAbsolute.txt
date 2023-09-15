@@ -1,0 +1,41 @@
+C:\Users\glab\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\glab\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\glab\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\glab\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\glab\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\glab\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\glab\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\glab\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\glab\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Omar\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Omar\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Omar\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Omar\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\Omar\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Omar\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Omar\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\muxxa\OneDrive\Desktop\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\muxxa\OneDrive\Desktop\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\muxxa\OneDrive\Desktop\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\muxxa\OneDrive\Desktop\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.AssemblyReference.cache
+C:\Users\muxxa\OneDrive\Desktop\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.SuggestedBindingRedirects.cache
+C:\Users\muxxa\OneDrive\Desktop\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\muxxa\OneDrive\Desktop\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\muxxa\OneDrive\Desktop\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.cache
+C:\Users\muxxa\OneDrive\Desktop\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.CoreCompileInputs.cache
+C:\Users\muxxa\OneDrive\Desktop\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\muxxa\OneDrive\Desktop\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\muxxa\OneDrive\Desktop\KIET UNIVERSITY WORK\NP project material\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\muxxa\OneDrive\Desktop\KIET UNIVERSITY WORK\NP project material\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\muxxa\OneDrive\Desktop\KIET UNIVERSITY WORK\NP project material\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\muxxa\OneDrive\Desktop\KIET UNIVERSITY WORK\NP project material\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.AssemblyReference.cache
+C:\Users\muxxa\OneDrive\Desktop\KIET UNIVERSITY WORK\NP project material\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.SuggestedBindingRedirects.cache
+C:\Users\muxxa\OneDrive\Desktop\KIET UNIVERSITY WORK\NP project material\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\muxxa\OneDrive\Desktop\KIET UNIVERSITY WORK\NP project material\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\muxxa\OneDrive\Desktop\KIET UNIVERSITY WORK\NP project material\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.cache
+C:\Users\muxxa\OneDrive\Desktop\KIET UNIVERSITY WORK\NP project material\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.CoreCompileInputs.cache
+C:\Users\muxxa\OneDrive\Desktop\KIET UNIVERSITY WORK\NP project material\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\muxxa\OneDrive\Desktop\KIET UNIVERSITY WORK\NP project material\Network Programming\Network Programming\Email App Winform\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb

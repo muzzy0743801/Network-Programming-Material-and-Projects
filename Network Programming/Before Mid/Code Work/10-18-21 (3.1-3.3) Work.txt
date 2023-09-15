@@ -1,0 +1,121 @@
+using System;
+using System.Net;
+class AddressSample
+{
+    public static void Main()
+    {
+        IPAddress test1 = IPAddress.Parse("192.168.1.71");
+        IPAddress test2 = IPAddress.Loopback;
+        IPAddress test3 = IPAddress.Broadcast;
+        IPAddress test4 = IPAddress.Any;
+        IPAddress test5 = IPAddress.None;
+        IPHostEntry ihe = Dns.GetHostByName(Dns.GetHostName());
+        IPAddress myself = ihe.AddressList[0];
+        if (IPAddress.IsLoopback(test2))
+            Console.WriteLine("The Loopback address is: {0}", test2.ToString());
+        else
+            Console.WriteLine("Error obtaining the loopback address");
+        Console.WriteLine("The Local IP address is: {0}\n",
+        myself.ToString());
+        if (myself == test2)
+            Console.WriteLine("The loopback address is thesame as local address.\n");
+        else
+            Console.WriteLine("The loopback address is not the local address.\n");
+        Console.WriteLine("The test address is: {0}",test1.ToString());
+        Console.WriteLine("Broadcast address: {0}",test3.ToString());
+        Console.WriteLine("The ANY address is: {0}",test4.ToString());
+        Console.WriteLine("The NONE address is: {0}",test5.ToString());
+
+    }
+}
+
+3.2
+
+using System;
+using System.Net;
+
+class IPEndPointSample
+{
+ public static void Main ()
+ {
+ IPAddress test1 = IPAddress.Parse("192.168.1.71");
+ IPEndPoint ie = new IPEndPoint(test1, 8000);
+ Console.WriteLine("The IPEndPoint is: {0}",ie.ToString());
+ Console.WriteLine("The AddressFamily is: {0}",
+ ie.AddressFamily);
+ Console.WriteLine("The address is: {0}, and the Âport is: {1}\n", ie.Address, ie.Port);
+ Console.WriteLine("The min port number is: {0}",
+ IPEndPoint.MinPort);
+ Console.WriteLine("The max port number is: {0}\n",
+ IPEndPoint.MaxPort);
+ ie.Port = 80;
+ Console.WriteLine("The changed IPEndPoint value Â is: {0}", ie.ToString());
+ SocketAddress sa = ie.Serialize();
+ Console.WriteLine("The SocketAddress is: {0}", sa.ToString());
+ }
+}
+
+3.3
+
+using System;
+using System.Net;
+using System.Net.Sockets;
+class SockProp
+{
+ public static void Main ()
+
+ {
+ IPAddress ia = IPAddress.Parse("192.168.1.71");
+ IPEndPoint ie = new IPEndPoint(ia, 8000);
+ Socket test = new Socket(AddressFamily.InterNetwork,SocketType.Stream, ProtocolType.Tcp);
+ Console.WriteLine("AddressFamily: {0}",test.AddressFamily);
+ Console.WriteLine("SocketType: {0}",test.SocketType);
+ Console.WriteLine("ProtocolType: {0}",test.ProtocolType);
+ Console.WriteLine("Blocking: {0}", test.Blocking);
+ test.Blocking = false;
+ Console.WriteLine("new Blocking: {0}",test.Blocking);
+ Console.WriteLine("Connected: {0}", test.Connected);
+ test.Bind(ie);
+ IPEndPoint iep = (IPEndPoint)test.LocalEndPoint;
+ Console.WriteLine("Local EndPoint: {0}",iep.ToString());
+ test.Close();
+ }
+}
+
+3.4
+
+using System;
+using System.Net;
+using System.Net.Sockets;
+using System.Text;
+class SocketExcept
+{
+ public static void Main ()
+ {
+ IPAddress host = IPAddress.Parse("192.168.1.71");
+ IPEndPoint hostep = new IPEndPoint(host, 8000);
+ Socket sock = new Socket(AddressFamily.InterNetwork,
+ SocketType.Stream, ProtocolType.Tcp);
+ try
+ {
+ sock.Connect(hostep);
+ } catch (SocketException e)
+ {
+ Console.WriteLine("Problem connecting to host");
+ Console.WriteLine(e.ToString());
+ sock.Close();
+ return;
+ }
+ try
+ {
+ sock.Send(Encoding.ASCII.GetBytes("testing"));
+ } catch (SocketException e)
+ {
+ Console.WriteLine("Problem sending data");
+ Console.WriteLine( e.ToString());
+ sock.Close();
+ return;
+ }
+ sock.Close();
+ }
+}

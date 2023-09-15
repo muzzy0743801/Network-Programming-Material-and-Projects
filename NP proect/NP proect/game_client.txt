@@ -1,0 +1,90 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using System.Net.Sockets;
+using System.Threading;
+//using System.Threading.Tasks;
+using System.Net;
+
+namespace WindowsFormsApplication2
+{
+    public partial class Form1 : Form
+    {
+        public int x = 100;
+        public int y = 100;
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //Thread n = new Thread(read);
+           // n.Start();
+           
+        }
+
+        public void send(string D)
+        {
+            string direction = D;
+            Thread n2 = new Thread(() => senddata(direction));
+            n2.Start();
+        }
+
+        public void senddata(string D)
+        {
+            string direction = D;
+            try
+            {
+                UdpClient c = new UdpClient("172.16.1.103", 980);
+
+
+                byte[] data = Encoding.Unicode.GetBytes(x.ToString() + "," + y.ToString() + "," + direction);
+                c.Send(data, data.Length);
+                Thread.Sleep(2000);
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
+
+
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string direction = "up";
+            y--;
+            send(direction);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string direction = "right";
+            x++;
+            send(direction);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            string direction = "down";
+            y++;
+            send(direction);            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string direction = "left";
+            x--;
+            send(direction);            
+        }
+    }
+}

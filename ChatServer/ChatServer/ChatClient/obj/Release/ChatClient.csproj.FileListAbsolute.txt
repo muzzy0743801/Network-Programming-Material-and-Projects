@@ -1,0 +1,20 @@
+C:\Users\Majid\Desktop\university\MY NP\ChatServer\ChatClient\obj\Release\ChatClient.exe
+C:\Users\Majid\Desktop\university\MY NP\ChatServer\ChatClient\obj\Release\ChatClient.pdb
+C:\Users\Majid\Desktop\university\MY NP\ChatServer\ChatClient\bin\Release\ChatClient.exe
+C:\Users\Majid\Desktop\university\MY NP\ChatServer\ChatClient\bin\Release\ChatClient.pdb
+C:\Users\Majid\Desktop\university\MY NP\ChatServer\ChatClient\bin\Release\ChatServer.dll
+C:\Users\Majid\Desktop\university\MY NP\ChatServer\ChatClient\bin\Release\ChatServer.pdb
+C:\Users\Majid\Desktop\university\MY NP\ChatServer\ChatClient\obj\Release\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\university\MY NP\ChatServer\ChatClient\obj\Release\PC.Properties.Resources.resources
+C:\Users\Majid\Desktop\university\MY NP\ChatServer\ChatClient\obj\Release\ChatClient.csproj.GenerateResource.Cache
+C:\Users\muxxa\OneDrive\Desktop\ChatServer\ChatServer\ChatClient\bin\Release\ChatClient.exe
+C:\Users\muxxa\OneDrive\Desktop\ChatServer\ChatServer\ChatClient\bin\Release\ChatClient.pdb
+C:\Users\muxxa\OneDrive\Desktop\ChatServer\ChatServer\ChatClient\bin\Release\ChatServer.dll
+C:\Users\muxxa\OneDrive\Desktop\ChatServer\ChatServer\ChatClient\bin\Release\ChatServer.pdb
+C:\Users\muxxa\OneDrive\Desktop\ChatServer\ChatServer\ChatClient\obj\Release\ChatClient.csproj.AssemblyReference.cache
+C:\Users\muxxa\OneDrive\Desktop\ChatServer\ChatServer\ChatClient\obj\Release\PC.Properties.Resources.resources
+C:\Users\muxxa\OneDrive\Desktop\ChatServer\ChatServer\ChatClient\obj\Release\ChatClient.csproj.GenerateResource.cache
+C:\Users\muxxa\OneDrive\Desktop\ChatServer\ChatServer\ChatClient\obj\Release\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\muxxa\OneDrive\Desktop\ChatServer\ChatServer\ChatClient\obj\Release\ChatClient.csproj.CopyComplete
+C:\Users\muxxa\OneDrive\Desktop\ChatServer\ChatServer\ChatClient\obj\Release\ChatClient.exe
+C:\Users\muxxa\OneDrive\Desktop\ChatServer\ChatServer\ChatClient\obj\Release\ChatClient.pdb

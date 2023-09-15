@@ -1,0 +1,27 @@
+{
+  "name": "realtime-code-sharing",
+  "version": "1.0.0",
+  "description": "Web application for Realtime code sharing and collaborating environment.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "realtimesharing",
+    "websockets",
+    "socket.io",
+    "node",
+    "express",
+    "monacoeditor"
+  ],
+  "author": "M.Saad Haleem",
+  "license": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

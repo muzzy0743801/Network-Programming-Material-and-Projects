@@ -1,0 +1,35 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Net;
+using System.Net.Sockets;
+
+namespace Server
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            IPAddress ip = IPAddress.Parse("192.168.1.129");
+            IPEndPoint eq = new IPEndPoint(ip, 2000);
+            Socket sk = new Socket(ip.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
+            sk.Bind(eq);
+            sk.Listen(1);
+            Socket cl = sk.Accept();
+            Console.WriteLine("Server Connected");
+            byte[] arr = new byte[100];
+            int i=0;
+            while(1<5)
+            {
+                cl.Receive(arr);
+                Console.WriteLine(Encoding.ASCII.GetString(arr));
+                i++;
+            }
+            //cl.Receive(arr);
+            //Console.WriteLine(Encoding.ASCII.GetString(arr));
+            Console.ReadKey();
+        }
+    }
+}

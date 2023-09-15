@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Net;
+using System.Net.Sockets;
+
+namespace Client
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /// <summary>
+            /// //////client side
+            /// </summary>
+            IPAddress ip = IPAddress.Parse("192.168.1.121");
+            IPEndPoint eq = new IPEndPoint(ip, 2000);
+            Socket sk = new Socket(ip.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
+            sk.Connect(eq);
+            Console.WriteLine("Client Connected");
+            string str1 = "Mustafa";
+            string str2 = "Omer";
+            string str3 = "Shagil";
+            string str4 = "Faisal";
+            string str5 = "Shoaib";
+            string[] arr = { str1, str2, str3, str4, str5 };
+
+            int i = 0;
+            while (i < 5)
+            {
+                sk.Send(Encoding.ASCII.GetBytes(arr[i]));
+                i++;
+            }
+            Console.ReadKey();
+        }
+    }
+}

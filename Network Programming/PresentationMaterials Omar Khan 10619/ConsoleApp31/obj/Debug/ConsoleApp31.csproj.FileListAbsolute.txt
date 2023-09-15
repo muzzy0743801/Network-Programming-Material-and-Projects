@@ -1,0 +1,14 @@
+C:\Users\Omar\source\repos\ConsoleApp31\bin\Debug\ConsoleApp31.exe.config
+C:\Users\Omar\source\repos\ConsoleApp31\bin\Debug\ConsoleApp31.exe
+C:\Users\Omar\source\repos\ConsoleApp31\bin\Debug\ConsoleApp31.pdb
+C:\Users\Omar\source\repos\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\ConsoleApp31\obj\Debug\ConsoleApp31.exe
+C:\Users\Omar\source\repos\ConsoleApp31\obj\Debug\ConsoleApp31.pdb
+C:\Users\Omar\Desktop\ConsoleApp31\bin\Debug\ConsoleApp31.exe.config
+C:\Users\Omar\Desktop\ConsoleApp31\bin\Debug\ConsoleApp31.exe
+C:\Users\Omar\Desktop\ConsoleApp31\bin\Debug\ConsoleApp31.pdb
+C:\Users\Omar\Desktop\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\ConsoleApp31\obj\Debug\ConsoleApp31.exe
+C:\Users\Omar\Desktop\ConsoleApp31\obj\Debug\ConsoleApp31.pdb

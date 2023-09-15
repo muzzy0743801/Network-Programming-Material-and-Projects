@@ -1,0 +1,19 @@
+C:\Users\glab.KIETNN\Desktop\Mustafa\Server\Server\bin\Debug\Server.exe.config
+C:\Users\glab.KIETNN\Desktop\Mustafa\Server\Server\bin\Debug\Server.exe
+C:\Users\glab.KIETNN\Desktop\Mustafa\Server\Server\bin\Debug\Server.pdb
+C:\Users\glab.KIETNN\Desktop\Mustafa\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\glab.KIETNN\Desktop\Mustafa\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\glab.KIETNN\Desktop\Mustafa\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\glab.KIETNN\Desktop\Mustafa\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\glab.KIETNN\Desktop\Mustafa\Server\Server\obj\Debug\Server.exe
+C:\Users\glab.KIETNN\Desktop\Mustafa\Server\Server\obj\Debug\Server.pdb
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Server\Server\bin\Debug\Server.exe.config
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Server\Server\bin\Debug\Server.exe
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Server\Server\bin\Debug\Server.pdb
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Server\Server\obj\Debug\Server.Form1.resources
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Server\Server\obj\Debug\Server.exe
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Server\Server\obj\Debug\Server.pdb

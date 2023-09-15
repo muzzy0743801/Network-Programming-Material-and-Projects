@@ -1,0 +1,18 @@
+C:\Users\glab.KIETNN\Desktop\Mustafa\Client\Client\bin\Debug\Client.exe.config
+C:\Users\glab.KIETNN\Desktop\Mustafa\Client\Client\bin\Debug\Client.exe
+C:\Users\glab.KIETNN\Desktop\Mustafa\Client\Client\bin\Debug\Client.pdb
+C:\Users\glab.KIETNN\Desktop\Mustafa\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\glab.KIETNN\Desktop\Mustafa\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\glab.KIETNN\Desktop\Mustafa\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\glab.KIETNN\Desktop\Mustafa\Client\Client\obj\Debug\Client.exe
+C:\Users\glab.KIETNN\Desktop\Mustafa\Client\Client\obj\Debug\Client.pdb
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Client\Client\bin\Debug\Client.exe.config
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Client\Client\bin\Debug\Client.exe
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Client\Client\bin\Debug\Client.pdb
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Client\Client\obj\Debug\Client.Form1.resources
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Client\Client\obj\Debug\Client.exe
+D:\BS-CS\5th Semester\Network Programming\Mustafe Work\Client\Client\obj\Debug\Client.pdb
